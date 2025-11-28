@@ -1,8 +1,17 @@
 ---
 title: Projects
 ---
+# Work in progress 
+## The Macroeconomics of Energy Security: Anatomy of a Multi-Frequency Index 
+<img src="energy.png" style="height: 60%; width: 60%;"/>
 
+*with Julian Marcoux (University of Lausanne and PhD Globalization fellow Dartmouth College)*
 
+## Safe-Haven Effects and Sectoral Implications: Lessons from Switzerland and Japan 
+
+*with Mathieu Grobéty (CREA)*
+
+# Master Thesis 
 ## Forecasting the Swiss Economy - FAVAR approach
 
 <img src="plot_forecast_swiss.png" style="height: 60%; width: 60%; object-fit: contain" onclick="window.open('Master_thesis.pdf', 'blank');"/>

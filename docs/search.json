@@ -18,14 +18,28 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Master thesis\nunder the supervision of Mathieu Grobéty (head of CREA) and Brendan Berthold (Zurich Insurance)\nAbstract:\nConducted for CREA (Swiss Institute of Applied Economics of University of Lausanne), we propose a Factor Augmented VAR (FAVAR) tailored for a small economy to forecast real Swiss GDP growth. We use principal components analysis and expectation-Maximization algorithm to extract factors from a diverse set of a large number of variables with missing values and modeled them with the target variable within a VAR framework in a two step estimation approach. Our FAVAR remains structural by dividing the model into two blocks : one for foreign and one for domestic factors. Each block encompasses a real activity, inflation, money supply & interest rates and financial conditions factor, contributing to the model’s economic interpretability. To assess its out-of-sample performance, we compare our FAVAR model against six different benchmarks, including univariate and multivariate models, across various forecasting horizons (up to 12 quarters ahead) and over three different evaluation samples. Our key finding suggests that the performance of the FAVAR increases with the forecasting horizon. However, the Covid-19 crisis and the war in Ukraine present challenges to our FAVAR’s performance. During this period (2020Q1-2023Q2), we found a decline in forecast performance over the long term as well as a general deterioration across all horizons except when compared to the random walk."
+    "text": "with Julian Marcoux (University of Lausanne and PhD Globalization fellow Dartmouth College)\n\n\n\nwith Mathieu Grobéty (CREA)"
+  },
+  {
+    "objectID": "projects/index.html#the-macroeconomics-of-energy-security-anatomy-of-a-multi-frequency-index",
+    "href": "projects/index.html#the-macroeconomics-of-energy-security-anatomy-of-a-multi-frequency-index",
+    "title": "Projects",
+    "section": "",
+    "text": "with Julian Marcoux (University of Lausanne and PhD Globalization fellow Dartmouth College)"
+  },
+  {
+    "objectID": "projects/index.html#safe-haven-effects-and-sectoral-implications-lessons-from-switzerland-and-japan",
+    "href": "projects/index.html#safe-haven-effects-and-sectoral-implications-lessons-from-switzerland-and-japan",
+    "title": "Projects",
+    "section": "",
+    "text": "with Mathieu Grobéty (CREA)"
   },
   {
     "objectID": "projects/index.html#forecasting-the-swiss-economy---favar-approach",
     "href": "projects/index.html#forecasting-the-swiss-economy---favar-approach",
     "title": "Projects",
-    "section": "",
-    "text": "Master thesis\nunder the supervision of Mathieu Grobéty (head of CREA) and Brendan Berthold (Zurich Insurance)\nAbstract:\nConducted for CREA (Swiss Institute of Applied Economics of University of Lausanne), we propose a Factor Augmented VAR (FAVAR) tailored for a small economy to forecast real Swiss GDP growth. We use principal components analysis and expectation-Maximization algorithm to extract factors from a diverse set of a large number of variables with missing values and modeled them with the target variable within a VAR framework in a two step estimation approach. Our FAVAR remains structural by dividing the model into two blocks : one for foreign and one for domestic factors. Each block encompasses a real activity, inflation, money supply & interest rates and financial conditions factor, contributing to the model’s economic interpretability. To assess its out-of-sample performance, we compare our FAVAR model against six different benchmarks, including univariate and multivariate models, across various forecasting horizons (up to 12 quarters ahead) and over three different evaluation samples. Our key finding suggests that the performance of the FAVAR increases with the forecasting horizon. However, the Covid-19 crisis and the war in Ukraine present challenges to our FAVAR’s performance. During this period (2020Q1-2023Q2), we found a decline in forecast performance over the long term as well as a general deterioration across all horizons except when compared to the random walk."
+    "section": "Forecasting the Swiss Economy - FAVAR approach",
+    "text": "Forecasting the Swiss Economy - FAVAR approach\n\nMaster thesis\nunder the supervision of Mathieu Grobéty (head of CREA) and Brendan Berthold (Zurich Insurance)\nAbstract:\nConducted for CREA (Swiss Institute of Applied Economics of University of Lausanne), we propose a Factor Augmented VAR (FAVAR) tailored for a small economy to forecast real Swiss GDP growth. We use principal components analysis and expectation-Maximization algorithm to extract factors from a diverse set of a large number of variables with missing values and modeled them with the target variable within a VAR framework in a two step estimation approach. Our FAVAR remains structural by dividing the model into two blocks : one for foreign and one for domestic factors. Each block encompasses a real activity, inflation, money supply & interest rates and financial conditions factor, contributing to the model’s economic interpretability. To assess its out-of-sample performance, we compare our FAVAR model against six different benchmarks, including univariate and multivariate models, across various forecasting horizons (up to 12 quarters ahead) and over three different evaluation samples. Our key finding suggests that the performance of the FAVAR increases with the forecasting horizon. However, the Covid-19 crisis and the war in Ukraine present challenges to our FAVAR’s performance. During this period (2020Q1-2023Q2), we found a decline in forecast performance over the long term as well as a general deterioration across all horizons except when compared to the random walk."
   },
   {
     "objectID": "projects/index.html#genève-est-il-un-canton-attractif-une-analyse-économique-sous-langle-de-cinq-thématiques-policy",
