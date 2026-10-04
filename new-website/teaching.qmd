@@ -1,0 +1,38 @@
+---
+pagetitle: "Teaching | Viktor Gradoux"
+description-meta: "Viktor Gradoux, PhD candidate in Economics at the University of Lausanne: international macroeconomics, energy and geoeconomics."
+---
+
+<!-- Each position is one <section class="role">; each course is one <li> (term, then course name). -->
+```{=html}
+      <h1 class="page-title">Teaching</h1>
+      <p class="page-lede">Teaching assistant at HEC Lausanne since 2020, in macroeconomics, finance, econometrics and forecasting.</p>
+
+      <section class="role">
+        <div class="role-head">
+          <h2 class="role-title">Graduate Teaching Assistant</h2>
+          <span class="role-years">2024 &ndash; present</span>
+        </div>
+        <p class="role-place">University of Lausanne, Faculty of Business and Economics (HEC)</p>
+        <ul class="courses">
+          <li><span class="course-term">Spring 2026</span><span class="course-name">International Money and Finance</span></li>
+          <li><span class="course-term">Spring 2026</span><span class="course-name">&Eacute;conomie Politique II</span></li>
+          <li><span class="course-term">Fall 2025</span><span class="course-name">Economic Forecasting for Decision Making</span></li>
+          <li><span class="course-term">Fall 2024</span><span class="course-name">Public Finances</span></li>
+        </ul>
+      </section>
+
+      <section class="role">
+        <div class="role-head">
+          <h2 class="role-title">Teaching Assistant</h2>
+          <span class="role-years">2020 &ndash; 2023</span>
+        </div>
+        <p class="role-place">University of Lausanne, Faculty of Business and Economics (HEC)</p>
+        <ul class="courses">
+          <li><span class="course-term">2022, 2023</span><span class="course-name">Applied Econometrics</span></li>
+          <li><span class="course-term">2022</span><span class="course-name">Advanced Microeconomics</span></li>
+          <li><span class="course-term">2022</span><span class="course-name">Statistics &amp; Econometrics I</span></li>
+          <li><span class="course-term">2020</span><span class="course-name">Operations Management</span></li>
+        </ul>
+      </section>
+```

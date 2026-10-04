@@ -1,0 +1,23 @@
+# New website (Quarto). Render this folder and the site is written to ../docs,
+# which is the folder GitHub Pages publishes.
+project:
+  type: default
+  output-dir: ../docs
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - cv.qmd
+    - 404.qmd
+  resources:
+    - assets/
+    - .nojekyll
+
+lang: en
+
+format:
+  html:
+    minimal: true
+    include-in-header: _includes/head.html
+    include-before-body: _includes/header.html
+    include-after-body: _includes/footer.html

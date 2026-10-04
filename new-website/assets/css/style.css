@@ -344,11 +344,42 @@ p { margin: 0 0 1em; }
 .talks { list-style: none; margin: 0; padding: 0; }
 .talks li { display: grid; grid-template-columns: 3.2em 1fr; gap: 8px; }
 .talk-year { color: var(--muted); font-variant-numeric: tabular-nums; }
+.talks .dagger { color: var(--accent); font-weight: 600; margin-left: 1px; }
+.talks-note { margin: 10px 0 0; font-size: 0.85rem; color: var(--muted); }
+.talks-note sup { color: var(--accent); font-weight: 600; margin-right: 3px; }
 .pub-panel .kw { color: var(--muted); font-size: 0.9rem; }
 
 @media (max-width: 640px) {
   .pub { grid-template-columns: 1fr; gap: 14px; }
   .pub-thumb { max-width: 260px; }
+}
+
+/* ---------- Teaching ---------- */
+.role { padding: 28px 0 8px; }
+.role + .role { border-top: 1px solid var(--rule); margin-top: 28px; }
+.role-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 4px 24px;
+}
+.role-title { font-size: 1.45rem; }
+.role-years { color: var(--muted); font-size: 0.95rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.role-place { margin: 2px 0 18px; color: var(--muted); font-size: 0.97rem; }
+.courses { list-style: none; margin: 0; padding: 0; }
+.courses li {
+  display: grid;
+  grid-template-columns: 8.5em minmax(0, 1fr);
+  gap: 16px;
+  padding: 11px 0;
+  border-top: 1px solid var(--rule);
+}
+.courses li:last-child { border-bottom: 1px solid var(--rule); }
+.course-term { color: var(--muted); font-size: 0.93rem; font-variant-numeric: tabular-nums; padding-top: 1px; }
+.course-name { font-family: var(--serif); font-size: 1.12rem; line-height: 1.35; }
+@media (max-width: 520px) {
+  .courses li { grid-template-columns: 1fr; gap: 0; }
 }
 
 /* ---------- CV ---------- */

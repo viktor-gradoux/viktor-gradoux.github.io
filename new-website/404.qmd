@@ -1,0 +1,9 @@
+---
+pagetitle: "Page not found | Viktor Gradoux"
+description-meta: "Viktor Gradoux, PhD candidate in Economics at the University of Lausanne: international macroeconomics, energy and geoeconomics."
+---
+
+```{=html}
+      <h1 class="page-title">Page not found</h1>
+      <p class="page-lede">This page does not exist. Go back to the <a href="index.html">home page</a> or see my <a href="research.html">research</a>.</p>
+```

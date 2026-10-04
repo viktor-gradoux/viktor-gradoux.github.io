@@ -1,17 +1,23 @@
-# Viktor Gradoux — website (redesign)
+# Viktor Gradoux — website (Quarto)
 
-Plain HTML and CSS, no build step and no external requests (fonts and icons are self-hosted).
+Render this folder with Quarto and the finished site is written to `../docs`,
+the folder GitHub Pages publishes. Then commit and push.
 
-- `index.html` about page, `research.html` papers, `cv.html`, `404.html`
-- `assets/css/style.css` colours (top of file, light and dark), type and layout
-- `assets/js/site.js` theme toggle, mobile menu, Abstract and BibTeX buttons
-- `assets/files/` paper draft and CV; `assets/img/` pictures
+In R (from the repository folder):
 
-To update the paper, replace `assets/files/Gradoux_Marcoux_Oil_Shipping_and_Pirates.pdf`
-(keep the file name). To add a paper or a talk, edit the `<li class="pub">` blocks in `research.html`.
+    quarto::quarto_preview("new-website")   # live preview while editing
+    quarto::quarto_render("new-website")    # build into docs/
 
-To put it live: GitHub Pages currently serves the Quarto output in `docs/`.
-Either copy the contents of this folder into `docs/` (replacing the Quarto files), or
-set Settings > Pages to serve this folder from a branch.
+Or open `new-website/new-website.Rproj` in RStudio and use Build > Render Project.
+
+What to edit:
+- `index.qmd` about page (the biography is plain Markdown)
+- `research.qmd` papers; each paper is one `<li class="pub">` block, talks go in its "Presented at" list
+- `cv.qmd` CV page; replace `assets/files/cv.pdf` to update the CV
+- `_includes/header.html` top menu, `_includes/footer.html` footer
+- `assets/css/style.css` colours (top of file), type and layout
+- `assets/files/Gradoux_Marcoux_Oil_Shipping_and_Pirates.pdf` the paper (keep the file name)
+
+Do not render the old project at the repository root any more: it also writes to `docs/`.
 
 Fonts: Newsreader and Instrument Sans (SIL Open Font License). Icons: Font Awesome Free (CC BY 4.0).
