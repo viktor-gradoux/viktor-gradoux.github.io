@@ -404,3 +404,7 @@ p { margin: 0 0 1em; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
+
+/* link to course material, shown under the course name */
+.course-sub { display: block; margin-top: 4px; font-family: var(--sans); font-size: 0.9rem; line-height: 1.4; color: var(--accent); text-decoration: none; }
+.course-sub:hover { color: var(--accent-ink); text-decoration: underline; }
