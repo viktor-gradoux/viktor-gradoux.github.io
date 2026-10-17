@@ -418,6 +418,7 @@ p { margin: 0 0 1em; }
 :root[data-theme="dark"] .award { color: #e2b84a; }
 .award .tanker { display: inline-block; width: 1.9em; height: 0.76em; vertical-align: baseline; }
 .talks .award { margin-left: 2px; white-space: nowrap; }
+.talks .nobr { white-space: nowrap; }
 .talks .award .tanker { vertical-align: 0.22em; }
 .talks-note .award { color: #b07f0c; margin-right: 5px; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .talks-note .award { color: #e2b84a; } }
