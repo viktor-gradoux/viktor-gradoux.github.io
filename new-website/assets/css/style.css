@@ -408,3 +408,18 @@ p { margin: 0 0 1em; }
 /* link to course material, shown under the course name */
 .course-sub { display: block; margin-top: 4px; font-family: var(--sans); font-size: 0.9rem; line-height: 1.4; color: var(--accent); text-decoration: none; }
 .course-sub:hover { color: var(--accent-ink); text-decoration: underline; }
+
+/* course level (BSc / MSc), after the course name */
+.course-level { font-family: var(--sans); font-size: 0.86rem; color: var(--muted); white-space: nowrap; }
+
+/* gold tanker: best paper award (Research, "Presented at") */
+.award { color: #b07f0c; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .award { color: #e2b84a; } }
+:root[data-theme="dark"] .award { color: #e2b84a; }
+.award .tanker { display: inline-block; width: 1.9em; height: 0.76em; vertical-align: baseline; }
+.talks .award { margin-left: 2px; white-space: nowrap; }
+.talks .award .tanker { vertical-align: 0.22em; }
+.talks-note .award { color: #b07f0c; margin-right: 5px; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .talks-note .award { color: #e2b84a; } }
+:root[data-theme="dark"] .talks-note .award { color: #e2b84a; }
+.talks-note + .talks-note { margin-top: 4px; }
