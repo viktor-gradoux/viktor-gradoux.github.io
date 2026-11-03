@@ -14,7 +14,7 @@ description-meta: "Viktor Gradoux, PhD candidate in Economics at the University 
 
 <!-- Biography: plain Markdown, edit freely. -->
 ::: {.bio}
-I am a PhD candidate in Economics at the University of Lausanne, supervised by [Kenza Benhima](https://sites.google.com/site/benhimakenza/) (UNIL) and [Sylvia Kaufmann](https://szgerzensee.ch/about/staff/sylvia-kaufmann) (Study Center Gerzensee). I am also a scientific collaborator at the [Swiss Institute of Applied Economics (CREA)](https://www.unil.ch/crea/fr/home/menuinst/a-propos/nos-membres.html), where I build macroeconomic forecasting models for Switzerland.
+I am a second-year PhD student in Economics at the University of Lausanne, supervised by [Kenza Benhima](https://sites.google.com/site/benhimakenza/) (UNIL) and [Sylvia Kaufmann](https://szgerzensee.ch/about/staff/sylvia-kaufmann) (Study Center Gerzensee). I am also a scientific collaborator at the [Swiss Institute of Applied Economics (CREA)](https://www.unil.ch/crea/fr/home/menuinst/a-propos/nos-membres.html), where I build macroeconomic forecasting models for Switzerland.
 
 My research lies at the intersection of international macroeconomics and finance, energy and geoeconomics. I combine high-frequency and narrative identification with structural time-series methods to trace how financial and geopolitical shocks propagate through the global economy, and I work on the time-series toolkit itself.
 
