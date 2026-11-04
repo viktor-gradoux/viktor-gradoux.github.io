@@ -44,7 +44,7 @@ I am also the author of the textbook [*L’Économie en 60 graphiques*](https://
         <!-- News: newest first. Each item is one <li>; the box scrolls once the list is long. -->
         <div class="news-scroll" tabindex="0" role="region" aria-label="News, scrollable">
           <ul class="news-list">
-            <li><strong>November 3&ndash;4, 2026:</strong> I will present <a href="research.html#oil-shipping"><em>Oil Shipping and Pirates</em></a>, with my coauthor, at the <a href="https://cepr.org/events/5th-kiel-cepr-conference-geoeconomics">5th Kiel-CEPR Conference on Geoeconomics</a> (Junior Poster Session).</li>
+            <li><strong>November 3&ndash;4, 2026:</strong> Presented <a href="research.html#oil-shipping"><em>Oil Shipping and Pirates</em></a>, with my coauthor, at the <a href="https://cepr.org/events/5th-kiel-cepr-conference-geoeconomics">5th Kiel-CEPR Conference on Geoeconomics</a> (Junior Poster Session). <a href="assets/files/Gradoux_Marcoux_Kiel-CEPR_poster.pdf">See the poster</a>.</li>
             <li><strong>October 28, 2026:</strong> The new, extended series of oil-shipping shocks (from 1998 onwards) is complete. Available soon&hellip;</li>
             <li><strong>October 17, 2026:</strong> <a href="research.html#oil-shipping"><em>Oil Shipping and Pirates</em></a> won the Best Paper Award at the Swiss Association for Energy Economics (SAEE) Student Workshop at ETH Zurich.</li>
             <li><strong>October 7, 2026:</strong> The first draft of <a href="assets/files/Gradoux_Marcoux_Oil_Shipping_and_Pirates.pdf"><em>Oil Shipping and Pirates</em></a> is out on SSRN and circulated through the International and Monetary Economics Network.</li>
